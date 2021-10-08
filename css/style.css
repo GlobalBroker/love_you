@@ -1,0 +1,25 @@
+body{
+    background: #000;
+    text-align: center;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+p{
+    color: rgb(219, 0, 0);
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+iframe{
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+.love_text{
+    font-size: 20px;
+    color: crimson;
+}
+h2{
+    color: darkmagenta;
+}
